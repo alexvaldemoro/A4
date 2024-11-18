@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #f9f9f9;
+    padding-top: 150px;
+}
+
+.menu{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+}
+
+.title {
+    text-align: center;
+}
+
+.title img{
+    width: 300px;
+    height: auto;
+}
+
+hr {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid #000;
+    width: 100%;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons button {
+    border: none;
+    background-color: transparent;
+    color: #000;
+}
+.buttons button:hover {
+    color: rgb(2, 255, 2);
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+}
+
+nav{
+    text-align: center;
+    margin-top: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+.content {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+.sidebar {
+    width: 25%;
+}
+.main-content {
+    width: 75%;
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Dos columnas */
+    gap: 20px;
+}
+
+.recipe {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+
+.recipe h2 {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+.footer a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.recipe{
+    margin: 10px;
+}
+.tittle{
+    text-align: center;
+}
+.time {
+    font-weight: bold;
+    margin: 1rem 0;
+}
+.ingredients, .steps {
+    margin-bottom: 2rem;
+}
