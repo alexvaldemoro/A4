@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Alta - Delicias Kitchen</title>
+    <link rel="stylesheet" href="../CSS/recetas.css"> <!-- Reutilizamos el CSS existente -->
+</head>
+<body>
+    <div class="container">
+        <!-- Menú de navegación -->
+        <header class="menu">
+            <div class="title">
+                <img src="../images/delicias_kitchen.png"/>
+            </div>
+            <hr>
+            <div class="buttons">
+                <a href="../listado/index.html"><button>INICIO</button></a>
+                <a href="../listado/sobre-mi.html"><button>SOBRE MÍ</button></a>
+                <a href="../receta/recetas.html"><button>RECETAS</button></a>
+                <a href="contacto.html"><button>CONTACTO</button></a>
+                <a href="../listado/index.html"><button>OTRAS COSAS</button></a>
+            </div>
+            <hr>
+        </header>
+
+        <!-- Contenido principal del formulario -->
+        <main>
+            <div class="form-container">
+                <h2>Formulario de Alta, Comentarios y Nueva Receta</h2>
+                <form action="/submit-form" method="GET">
+                    <!-- Campo de nombre -->
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre" required>
+
+                    <!-- Campo de email -->
+                    <label for="email">Correo Electrónico:</label>
+                    <input type="email" id="email" name="email" placeholder="Tu email" required>
+
+                    <!-- Selector de tipo de entrada -->
+                    <label for="tipo">¿Qué deseas hacer?</label>
+                    <select id="tipo" name="tipo">
+                        <option value="alta">Darme de alta</option>
+                        <option value="comentario">Dejar un comentario</option>
+                        <option value="receta">Añadir una nueva receta</option>
+                    </select>
+
+                    <!-- Campo de comentarios o descripción -->
+                    <label for="mensaje">Comentario / Descripción de la Receta:</label>
+                    <textarea id="mensaje" name="mensaje" rows="5" placeholder="Escribe aquí tu comentario o receta"></textarea>
+
+                    <!-- Campo de archivo para subir imagen -->
+                    <label for="imagen">Sube una imagen de la receta (opcional):</label>
+                    <input type="file" id="imagen" name="imagen" accept="image/*">
+
+                    <!-- Botón de envío -->
+                    <button type="submit">Enviar</button>
+                </form>
+            </div>
+        </main>
+
+        <!-- Footer con enlaces a redes sociales -->
+        <div class="footer">
+            <a href="#">FACEBOOK</a> |
+            <a href="#">TWITTER</a> |
+            <a href="#">INSTAGRAM</a> |
+            <a href="#">PINTEREST</a> |
+            <a href="#">EMAIL</a> |
+            <a href="#">RSS</a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,686 @@
+<recetas>
+    <receta>
+        <titulo>Pasta de Coliflor y Pimienta de Jamaica</titulo>
+        <imagen>../images/pasta_col.png</imagen>
+        <tiempo>30 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Una salsa vegana cremosa a base de coliflor con un toque especial de pimienta de Jamaica.</descripcion>
+        <ingredientes>
+            <ingrediente>1 coliflor grande, cortada en floretes</ingrediente>
+            <ingrediente>200 gramos de pasta (fettuccine o espagueti)</ingrediente>
+            <ingrediente>2 cucharaditas de pimienta de Jamaica molida</ingrediente>
+            <ingrediente>3 dientes de ajo, picados</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal al gusto</ingrediente>
+            <ingrediente>Perejil fresco picado (opcional)</ingrediente>
+            <ingrediente>Queso parmesano rallado (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Cocina la pasta en una olla grande con agua con sal, siguiendo las instrucciones del paquete. Escúrrela y resérvala.</paso>
+            <paso>Calienta el aceite de oliva en una sartén grande a fuego medio. Añade los ajos picados y saltea hasta que estén dorados.</paso>
+            <paso>Agrega la coliflor y cocina durante 10-12 minutos, removiendo ocasionalmente, hasta que esté tierna.</paso>
+            <paso>Añade la pimienta de Jamaica y mezcla bien. Ajusta la sal al gusto.</paso>
+            <paso>Incorpora la pasta cocida en la sartén y mezcla con la coliflor. Sirve caliente con perejil fresco y queso parmesano si lo deseas.</paso>
+        </pasos>
+    </receta>
+    
+    <receta>
+        <titulo>Galletas de Avena, Rosa y Lima</titulo>
+        <imagen>../images/galleta_avena.png</imagen>
+        <tiempo>45 min</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Galletas crujientes y sabrosas, ideales para ocasiones especiales.</descripcion>
+        <ingredientes>
+            <ingrediente>200 gramos de avena</ingrediente>
+            <ingrediente>100 gramos de azúcar moreno</ingrediente>
+            <ingrediente>50 gramos de manteca de cerdo o margarina</ingrediente>
+            <ingrediente>2 cucharadas de esencia de rosa</ingrediente>
+            <ingrediente>1 lima (su jugo y ralladura)</ingrediente>
+            <ingrediente>1 huevo</ingrediente>
+            <ingrediente>1 cucharadita de polvo de hornear</ingrediente>
+            <ingrediente>1 pizca de sal</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Precalienta el horno a 180°C (350°F) y cubre una bandeja de hornear con papel manteca.</paso>
+            <paso>En un bol, mezcla la avena, azúcar, sal, polvo de hornear, jugo y ralladura de lima.</paso>
+            <paso>Agrega la manteca derretida, el huevo y la esencia de rosa, mezclando bien hasta obtener una masa.</paso>
+            <paso>Forma bolitas con la masa y colócalas sobre la bandeja. Aplánalas ligeramente.</paso>
+            <paso>Hornea durante 12-15 minutos, o hasta que estén doradas en los bordes. Deja enfriar.</paso>
+        </pasos>
+    </receta>
+    
+    <receta>
+        <titulo>Mijo Cremoso con Lentejas y Shiitake</titulo>
+        <imagen>../images/mijo.png</imagen>
+        <tiempo>40 min</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Un plato reconfortante de mijo con hortalizas y setas shiitake.</descripcion>
+        <ingredientes>
+            <ingrediente>200 gramos de mijo</ingrediente>
+            <ingrediente>100 gramos de lentejas cocidas</ingrediente>
+            <ingrediente>200 gramos de setas shiitake</ingrediente>
+            <ingrediente>1 cebolla pequeña, picada</ingrediente>
+            <ingrediente>2 dientes de ajo, picados</ingrediente>
+            <ingrediente>1 zanahoria, picada en cubos pequeños</ingrediente>
+            <ingrediente>1 cucharadita de jengibre fresco, rallado</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>En una olla, cocina el mijo siguiendo las instrucciones del paquete. Escúrrelo y resérvalo.</paso>
+            <paso>En una sartén grande, calienta el aceite de oliva. Agrega la cebolla, ajo, zanahoria y jengibre. Cocina durante 5 minutos hasta que estén tiernos.</paso>
+            <paso>Agrega las setas shiitake y cocina por unos 3 minutos.</paso>
+            <paso>Incorpora las lentejas cocidas y el mijo. Cocina por unos minutos, removiendo para que todo se mezcle bien.</paso>
+            <paso>Ajusta la sal y pimienta al gusto antes de servir.</paso>
+        </pasos>
+    </receta>
+    
+    <receta>
+        <titulo>Calabacines Rellenos de Arroz Negro y Calabaza</titulo>
+        <imagen>../images/calabacines_rellenos.png</imagen>
+        <tiempo>50 min</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Calabacines rellenos con un toque dulce de calabaza y arroz negro.</descripcion>
+        <ingredientes>
+            <ingrediente>2 calabacines medianos</ingrediente>
+            <ingrediente>150 gramos de arroz negro</ingrediente>
+            <ingrediente>200 gramos de calabaza, pelada y en cubos</ingrediente>
+            <ingrediente>1 cebolla, picada</ingrediente>
+            <ingrediente>1 diente de ajo, picado</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Precalienta el horno a 180°C (350°F) y corta los calabacines por la mitad. Saca la pulpa para crear huecos.</paso>
+            <paso>Cocina el arroz negro siguiendo las instrucciones del paquete.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y sofríe la cebolla, ajo y calabaza hasta que estén tiernos.</paso>
+            <paso>Agrega el arroz cocido y mezcla bien. Rellena los calabacines con esta mezcla.</paso>
+            <paso>Coloca los calabacines rellenos en una bandeja de hornear y hornea durante 25 minutos, o hasta que estén tiernos.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Sopa de Tomate y Albahaca</titulo>
+        <imagen>../images/sopa.webp</imagen>
+        <tiempo>25 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Una sopa ligera y refrescante con albahaca fresca.</descripcion>
+        <ingredientes>
+            <ingrediente>4 tomates maduros</ingrediente>
+            <ingrediente>1 cucharada de aceite de oliva</ingrediente>
+            <ingrediente>1 diente de ajo, picado</ingrediente>
+            <ingrediente>1 taza de caldo de verduras</ingrediente>
+            <ingrediente>Un puñado de albahaca fresca</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>En una sartén grande, calienta el aceite de oliva y sofríe el ajo hasta que esté dorado.</paso>
+            <paso>Agrega los tomates picados y cocina durante 5 minutos.</paso>
+            <paso>Agrega el caldo de verduras y cocina a fuego lento durante 10 minutos.</paso>
+            <paso>Licúa la sopa con una batidora de mano o en una licuadora hasta obtener una mezcla suave.</paso>
+            <paso>Vuelve a calentar la sopa y agrega la albahaca. Salpica con sal y pimienta al gusto antes de servir.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Ensalada de Quinoa y Aguacate</titulo>
+        <imagen>../images/ensalada.webp</imagen>
+        <tiempo>20 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Ensalada fresca y saludable con quinoa, aguacate y limón.</descripcion>
+        <ingredientes>
+            <ingrediente>1 taza de quinoa cocida</ingrediente>
+            <ingrediente>1 aguacate, picado</ingrediente>
+            <ingrediente>1 tomate, picado</ingrediente>
+            <ingrediente>Jugo de 1 limón</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>En un tazón grande, mezcla la quinoa cocida, aguacate y tomate.</paso>
+            <paso>Agrega el jugo de limón y el aceite de oliva.</paso>
+            <paso>Sazona con sal y pimienta al gusto. Remueve bien y sirve fresca.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Tarta Vegana de Chocolate</titulo>
+        <imagen>../images/tarta.jpg</imagen>
+        <tiempo>1h 10 min</tiempo>
+        <dificultad>Difícil</dificultad>
+        <descripcion>Un postre delicioso y saludable sin ingredientes de origen animal.</descripcion>
+        <ingredientes>
+            <ingrediente>1 taza de harina de almendra</ingrediente>
+            <ingrediente>1/2 taza de cacao en polvo</ingrediente>
+            <ingrediente>1/4 taza de aceite de coco</ingrediente>
+            <ingrediente>1/2 taza de azúcar de coco</ingrediente>
+            <ingrediente>1 taza de leche de almendra</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Precalentar el horno a 180°C.</paso>
+            <paso>Mezclar los ingredientes secos en un bol.</paso>
+            <paso>Agregar los ingredientes líquidos y mezclar hasta obtener una masa suave.</paso>
+            <paso>Verter la mezcla en un molde engrasado y hornear durante 40 minutos.</paso>
+            <paso>Dejar enfriar y servir.</paso>
+        </pasos>
+        <enlace>pasta.html</enlace>
+    </receta>
+
+    <receta>
+        <titulo>Hummus Clásico</titulo>
+        <imagen>../images/hummus.jpg</imagen>
+        <tiempo>15 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Un clásico hummus casero, perfecto como aperitivo o acompañamiento.</descripcion>
+        <ingredientes>
+            <ingrediente>1 lata de garbanzos cocidos</ingrediente>
+            <ingrediente>2 cucharadas de tahini</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>1/4 taza de aceite de oliva</ingrediente>
+            <ingrediente>Jugo de 1 limón</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Poner todos los ingredientes en un procesador de alimentos.</paso>
+            <paso>Procesar hasta obtener una mezcla suave y cremosa.</paso>
+            <paso>Ajustar el sabor con sal, pimienta o más jugo de limón si es necesario.</paso>
+            <paso>Servir con pan pita o verduras frescas.</paso>
+        </pasos>
+        <enlace>pasta.html</enlace>
+    </receta>
+
+    <receta>
+        <titulo>Crema de Calabaza y Coco</titulo>
+        <imagen>../images/coco.jpg</imagen>
+        <tiempo>35 min</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Una crema suave con un toque exótico de leche de coco.</descripcion>
+        <ingredientes>
+            <ingrediente>500g de calabaza</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>400ml de leche de coco</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>Caldo de verduras</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Pelar y cortar la calabaza y la cebolla en trozos.</paso>
+            <paso>En una cacerola, sofreír la cebolla y el ajo hasta que estén tiernos.</paso>
+            <paso>Agregar la calabaza, cubrir con caldo y cocinar hasta que esté tierna.</paso>
+            <paso>Agregar la leche de coco y triturar la mezcla hasta obtener una crema suave.</paso>
+            <paso>Ajustar el sazón con sal y pimienta antes de servir.</paso>
+        </pasos>
+        <enlace>pasta.html</enlace>
+    </receta>
+
+    <receta>
+        <titulo>Smoothie Verde de Espinacas y Piña</titulo>
+        <imagen>../images/smothie.jpg</imagen>
+        <tiempo>10 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Un batido refrescante lleno de vitaminas y minerales.</descripcion>
+        <ingredientes>
+            <ingrediente>1 taza de espinacas frescas</ingrediente>
+            <ingrediente>1/2 taza de piña</ingrediente>
+            <ingrediente>1/2 plátano</ingrediente>
+            <ingrediente>1 taza de agua o jugo de naranja</ingrediente>
+            <ingrediente>Hielo al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Colocar todos los ingredientes en una licuadora.</paso>
+            <paso>Licuar hasta obtener una mezcla suave y homogénea.</paso>
+            <paso>Servir frío y disfrutar.</paso>
+        </pasos>
+        <enlace>pasta.html</enlace>
+    </receta>
+
+    <receta>
+        <titulo>Lasagna de Berenjenas</titulo>
+        <imagen>../images/lasagna.jpg</imagen>
+        <tiempo>1h 15 min</tiempo>
+        <dificultad>Difícil</dificultad>
+        <descripcion>Una alternativa sin pasta con capas de berenjena y salsa de tomate casera.</descripcion>
+        <ingredientes>
+            <ingrediente>2 berenjenas</ingrediente>
+            <ingrediente>500g de tomate triturado</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>250g de queso ricotta</ingrediente>
+            <ingrediente>Albahaca fresca</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Cortar las berenjenas en rodajas finas y asarlas en el horno.</paso>
+            <paso>Preparar la salsa de tomate con cebolla, ajo y tomate triturado.</paso>
+            <paso>En un molde, alternar capas de berenjena, salsa de tomate y ricotta.</paso>
+            <paso>Hornear durante 30 minutos y servir con albahaca fresca.</paso>
+        </pasos>
+        <enlace>pasta.html</enlace>
+    </receta>
+
+    <receta>
+        <titulo>Pimientos Rellenos de Quinoa</titulo>
+        <imagen>../images/pimientos.avif</imagen>
+        <tiempo>50 min</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Pimientos rojos rellenos con quinoa, verduras y especias.</descripcion>
+        <ingredientes>
+            <ingrediente>4 pimientos rojos</ingrediente>
+            <ingrediente>1 taza de quinoa cocida</ingrediente>
+            <ingrediente>1 zanahoria</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>Especias al gusto (comino, pimentón)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Cocer la quinoa y reservar.</paso>
+            <paso>En una sartén, saltear la zanahoria y cebolla picadas.</paso>
+            <paso>Mezclar la quinoa con las verduras y especias.</paso>
+            <paso>Rellenar los pimientos con la mezcla y hornear durante 30 minutos.</paso>
+        </pasos>
+        <enlace>pasta.html</enlace>
+    </receta>
+
+    <receta>
+        <titulo>Pancakes de Avena y Plátano</titulo>
+        <imagen>../images/pancakesa.jpg</imagen>
+        <tiempo>20 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Una versión saludable y rápida de los clásicos pancakes.</descripcion>
+        <ingredientes>
+            <ingrediente>1 taza de avena</ingrediente>
+            <ingrediente>1 plátano maduro</ingrediente>
+            <ingrediente>1 huevo</ingrediente>
+            <ingrediente>1/4 taza de leche vegetal</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Mezclar todos los ingredientes en un bol hasta obtener una masa homogénea.</paso>
+            <paso>Calentar una sartén con un poco de aceite y verter pequeñas cantidades de masa.</paso>
+            <paso>Cocinar por ambos lados hasta dorar.</paso>
+            <paso>Servir con frutas frescas o miel.</paso>
+        </pasos>
+        <enlace>pasta.html</enlace>
+    </receta>
+
+    <receta>
+        <titulo>Risotto de Champiñones</titulo>
+        <imagen>../images/rissoto.jpg</imagen>
+        <tiempo>45 min</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Un risotto cremoso con champiñones frescos y parmesano.</descripcion>
+        <ingredientes>
+            <ingrediente>1 taza de arroz arborio</ingrediente>
+            <ingrediente>200g de champiñones</ingrediente>
+            <ingrediente>1/2 cebolla</ingrediente>
+            <ingrediente>1/4 taza de vino blanco</ingrediente>
+            <ingrediente>1 taza de caldo de verduras</ingrediente>
+            <ingrediente>Queso parmesano al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Saltear la cebolla y los champiñones en una sartén con un poco de aceite.</paso>
+            <paso>Agregar el arroz y el vino blanco, y cocinar hasta que se evapore.</paso>
+            <paso>Agregar el caldo poco a poco y seguir cocinando hasta que el arroz esté al dente.</paso>
+            <paso>Incorporar el queso parmesano y servir.</paso>
+        </pasos>
+        <enlace>pasta.html</enlace>
+    </receta>
+
+    <receta>
+        <titulo>Brownie de Chocolate Negro</titulo>
+        <imagen>../images/brownie.jpg</imagen>
+        <tiempo>35 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Un brownie denso y jugoso, perfecto para los amantes del chocolate.</descripcion>
+        <ingredientes>
+            <ingrediente>200g de chocolate negro</ingrediente>
+            <ingrediente>1/2 taza de azúcar</ingrediente>
+            <ingrediente>1/4 taza de mantequilla</ingrediente>
+            <ingrediente>2 huevos</ingrediente>
+            <ingrediente>1 taza de harina</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Derretir el chocolate y la mantequilla a fuego lento.</paso>
+            <paso>Batir los huevos con el azúcar, y luego añadir el chocolate derretido.</paso>
+            <paso>Agregar la harina y mezclar bien.</paso>
+            <paso>Verter la mezcla en un molde y hornear a 180°C durante 25 minutos.</paso>
+        </pasos>
+        <enlace>pasta.html</enlace>
+    </receta>
+    ---------------------------------------------------------------------------------------
+    <receta>
+        <titulo>Pizza Integral de Espinacas y Ricotta</titulo>
+        <imagen>../images/pizza_espinacas.png</imagen>
+        <tiempo>45 min</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Una pizza saludable con masa integral, espinacas frescas y queso ricotta.</descripcion>
+        <ingredientes>
+            <ingrediente>1 base de pizza integral</ingrediente>
+            <ingrediente>100g de espinacas frescas</ingrediente>
+            <ingrediente>150g de queso ricotta</ingrediente>
+            <ingrediente>50g de queso mozzarella rallado</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Precalienta el horno a 200°C.</paso>
+            <paso>Extiende la base de pizza en una bandeja para hornear.</paso>
+            <paso>Esparce las espinacas frescas sobre la base.</paso>
+            <paso>Añade el queso ricotta en pequeñas porciones y espolvorea la mozzarella encima.</paso>
+            <paso>Rocía con aceite de oliva, sazona y hornea por 15-20 minutos.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Sopa de Calabaza y Jengibre</titulo>
+        <imagen>../images/sopa_calabaza.webp</imagen>
+        <tiempo>30 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Una sopa cremosa y reconfortante con un toque picante de jengibre fresco.</descripcion>
+        <ingredientes>
+            <ingrediente>500g de calabaza pelada y troceada</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>1 trozo de jengibre fresco (3cm)</ingrediente>
+            <ingrediente>500ml de caldo de verduras</ingrediente>
+            <ingrediente>2 cucharadas de crema de leche</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Sofríe la cebolla picada en una olla hasta que esté dorada.</paso>
+            <paso>Añade la calabaza y el jengibre rallado, y cocina por 5 minutos.</paso>
+            <paso>Vierte el caldo de verduras y cocina hasta que la calabaza esté tierna.</paso>
+            <paso>Licúa la sopa hasta obtener una textura suave.</paso>
+            <paso>Agrega la crema de leche, sazona y sirve caliente.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Falafel de Garbanzos</titulo>
+        <imagen>../images/falafel.jpg</imagen>
+        <tiempo>35 min</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Deliciosas croquetas de garbanzos con especias, perfectas para acompañar con pan pita.</descripcion>
+        <ingredientes>
+            <ingrediente>400g de garbanzos cocidos</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>1/2 cebolla</ingrediente>
+            <ingrediente>2 cucharaditas de comino molido</ingrediente>
+            <ingrediente>1 cucharadita de cilantro molido</ingrediente>
+            <ingrediente>2 cucharadas de harina</ingrediente>
+            <ingrediente>Aceite para freír</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Tritura los garbanzos con el ajo, la cebolla y las especias en un procesador de alimentos.</paso>
+            <paso>Añade la harina para obtener una masa manejable.</paso>
+            <paso>Forma pequeñas bolitas con la mezcla.</paso>
+            <paso>Fríe las bolitas en abundante aceite caliente hasta que estén doradas.</paso>
+            <paso>Sirve con ensalada o pan pita.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Smoothie de Fresa y Mango</titulo>
+        <imagen>../images/smoothie_fresa.jpg</imagen>
+        <tiempo>10 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Una bebida refrescante y saludable, ideal para el desayuno o como merienda.</descripcion>
+        <ingredientes>
+            <ingrediente>1 taza de fresas</ingrediente>
+            <ingrediente>1 mango maduro</ingrediente>
+            <ingrediente>1 taza de leche de almendra</ingrediente>
+            <ingrediente>1 cucharada de miel (opcional)</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Pela y corta el mango en trozos pequeños.</paso>
+            <paso>Coloca las fresas, el mango y la leche de almendra en la licuadora.</paso>
+            <paso>Agrega miel si deseas endulzar.</paso>
+            <paso>Licúa hasta obtener una textura homogénea y sirve inmediatamente.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Rollos de Primavera con Verduras</titulo>
+        <imagen>../images/rollos_primavera.jpeg</imagen>
+        <tiempo>25 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Frescos y crujientes rollos de papel de arroz rellenos de verduras.</descripcion>
+        <ingredientes>
+            <ingrediente>8 hojas de papel de arroz</ingrediente>
+            <ingrediente>1 zanahoria rallada</ingrediente>
+            <ingrediente>1 pepino en tiras</ingrediente>
+            <ingrediente>1 taza de lechuga picada</ingrediente>
+            <ingrediente>1/2 taza de menta fresca</ingrediente>
+            <ingrediente>Salsa de soja para servir</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Remoja las hojas de papel de arroz en agua tibia hasta que estén blandas.</paso>
+            <paso>Coloca una porción de zanahoria, pepino, lechuga y menta en cada hoja.</paso>
+            <paso>Enrolla firmemente los ingredientes en el papel de arroz.</paso>
+            <paso>Sirve con salsa de soja como acompañamiento.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <titulo>Arroz Frito con Verduras</titulo>
+        <imagen>../images/arroz_frito.jpg</imagen>
+        <tiempo>25 min</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Un plato clásico con arroz, verduras frescas y salsa de soja.</descripcion>
+        <ingredientes>
+            <ingrediente>2 tazas de arroz cocido</ingrediente>
+            <ingrediente>1 zanahoria en cubos pequeños</ingrediente>
+            <ingrediente>1/2 taza de guisantes</ingrediente>
+            <ingrediente>1/2 taza de cebolla picada</ingrediente>
+            <ingrediente>3 cucharadas de salsa de soja</ingrediente>
+            <ingrediente>2 cucharadas de aceite vegetal</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Calienta el aceite en un wok o sartén grande.</paso>
+            <paso>Sofríe la cebolla, la zanahoria y los guisantes durante 5 minutos.</paso>
+            <paso>Añade el arroz cocido y mezcla bien.</paso>
+            <paso>Incorpora la salsa de soja y cocina por 3 minutos más. Sirve caliente.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Tacos de Coliflor al Pastor</titulo>
+        <imagen>../images/tacos_coliflor.jpg</imagen>
+        <tiempo>30 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Una versión vegana de tacos al pastor, utilizando coliflor marinada.</descripcion>
+        <ingredientes>
+            <ingrediente>1 coliflor pequeña, cortada en trozos</ingrediente>
+            <ingrediente>1/2 taza de salsa de pastor</ingrediente>
+            <ingrediente>8 tortillas de maíz</ingrediente>
+            <ingrediente>1/2 cebolla picada</ingrediente>
+            <ingrediente>1/4 taza de cilantro picado</ingrediente>
+            <ingrediente>1 limón</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Marina la coliflor en la salsa de pastor durante 10 minutos.</paso>
+            <paso>Hornea o asa la coliflor a 200°C hasta que esté dorada.</paso>
+            <paso>Calienta las tortillas y rellénalas con la coliflor asada.</paso>
+            <paso>Decora con cebolla, cilantro y un toque de limón antes de servir.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Brownies de Batata</titulo>
+        <imagen>../images/brownies_batata.jpg</imagen>
+        <tiempo>40 min</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Brownies saludables hechos con batata y cacao, ideales para los amantes del chocolate.</descripcion>
+        <ingredientes>
+            <ingrediente>1 taza de puré de batata</ingrediente>
+            <ingrediente>1/2 taza de cacao en polvo</ingrediente>
+            <ingrediente>1/2 taza de harina de avena</ingrediente>
+            <ingrediente>1/4 taza de miel o jarabe de arce</ingrediente>
+            <ingrediente>1/4 taza de aceite de coco</ingrediente>
+            <ingrediente>1 cucharadita de extracto de vainilla</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Precalienta el horno a 180°C y engrasa un molde cuadrado.</paso>
+            <paso>Mezcla todos los ingredientes en un bol hasta obtener una masa homogénea.</paso>
+            <paso>Vierte la mezcla en el molde y alisa la superficie.</paso>
+            <paso>Hornea durante 25-30 minutos o hasta que un palillo salga limpio.</paso>
+            <paso>Deja enfriar antes de cortar en porciones y servir.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Crema de Espárragos</titulo>
+        <imagen>../images/crema_esparragos.jpg</imagen>
+        <tiempo>25 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Una crema suave y elegante de espárragos frescos, perfecta como entrante.</descripcion>
+        <ingredientes>
+            <ingrediente>500g de espárragos verdes</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>500ml de caldo de pollo o verduras</ingrediente>
+            <ingrediente>100ml de nata líquida</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Corta los espárragos y reserva las puntas para decorar.</paso>
+            <paso>Sofríe la cebolla y el ajo en una olla hasta que estén tiernos.</paso>
+            <paso>Añade los espárragos y el caldo, y cocina hasta que estén suaves.</paso>
+            <paso>Licúa la mezcla y vuelve a calentar, añadiendo la nata líquida.</paso>
+            <paso>Decora con las puntas de espárrago antes de servir.</paso>
+        </pasos>
+    </receta>
+        <receta>
+        <titulo>Pizza de Coliflor y Espinacas</titulo>
+        <imagen>../images/pizza_coliflor.jpg</imagen>
+        <tiempo>50 min</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Una pizza con base de coliflor, cubierta con espinacas frescas y queso.</descripcion>
+        <ingredientes>
+            <ingrediente>1 coliflor mediana, rallada</ingrediente>
+            <ingrediente>1 huevo</ingrediente>
+            <ingrediente>100 gramos de queso mozzarella rallado</ingrediente>
+            <ingrediente>1/2 taza de salsa de tomate</ingrediente>
+            <ingrediente>1 taza de espinacas frescas</ingrediente>
+            <ingrediente>50 gramos de queso parmesano</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Precalienta el horno a 200°C y forra una bandeja con papel de hornear.</paso>
+            <paso>Mezcla la coliflor rallada con el huevo y la mozzarella hasta formar una masa.</paso>
+            <paso>Extiende la masa en la bandeja y hornea por 15 minutos hasta que esté dorada.</paso>
+            <paso>Cubre la base con salsa de tomate, espinacas y queso parmesano.</paso>
+            <paso>Hornea 10 minutos más hasta que el queso se derrita. Sirve caliente.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Sopa de Zanahoria y Jengibre</titulo>
+        <imagen>../images/sopa_zanahoria.jpg</imagen>
+        <tiempo>30 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Una sopa cremosa y reconfortante con un toque picante de jengibre.</descripcion>
+        <ingredientes>
+            <ingrediente>500g de zanahorias peladas y troceadas</ingrediente>
+            <ingrediente>1 cebolla picada</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>1 cucharada de jengibre fresco rallado</ingrediente>
+            <ingrediente>500ml de caldo de verduras</ingrediente>
+            <ingrediente>100ml de leche de coco</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Sofríe la cebolla y el ajo en una olla hasta que estén tiernos.</paso>
+            <paso>Añade las zanahorias y el jengibre, y cocina por 5 minutos.</paso>
+            <paso>Incorpora el caldo de verduras y cocina hasta que las zanahorias estén blandas.</paso>
+            <paso>Licúa la sopa y agrega la leche de coco. Ajusta la sazón y sirve.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Falafel Casero</titulo>
+        <imagen>../images/falafel.jpg</imagen>
+        <tiempo>40 min</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Deliciosas bolitas de garbanzos con especias, perfectas para servir en pita.</descripcion>
+        <ingredientes>
+            <ingrediente>2 tazas de garbanzos cocidos</ingrediente>
+            <ingrediente>1 cebolla pequeña</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>1/4 taza de perejil fresco</ingrediente>
+            <ingrediente>1 cucharadita de comino molido</ingrediente>
+            <ingrediente>1/2 taza de harina</ingrediente>
+            <ingrediente>Sal al gusto</ingrediente>
+            <ingrediente>Aceite para freír</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Procesa los garbanzos con la cebolla, ajo, perejil, comino y sal hasta obtener una masa.</paso>
+            <paso>Añade la harina y mezcla bien.</paso>
+            <paso>Forma bolitas y fríelas en aceite caliente hasta que estén doradas.</paso>
+            <paso>Sírvelas en pita con salsa tahini y vegetales frescos.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Tarta de Manzana Rústica</titulo>
+        <imagen>../images/tarta_manzana.jpg</imagen>
+        <tiempo>1h</tiempo>
+        <dificultad>Media</dificultad>
+        <descripcion>Un postre clásico con manzanas caramelizadas en una base crujiente.</descripcion>
+        <ingredientes>
+            <ingrediente>2 manzanas grandes, peladas y en rodajas</ingrediente>
+            <ingrediente>1 masa de hojaldre</ingrediente>
+            <ingrediente>2 cucharadas de azúcar moreno</ingrediente>
+            <ingrediente>1 cucharadita de canela</ingrediente>
+            <ingrediente>1 huevo para barnizar</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Precalienta el horno a 180°C.</paso>
+            <paso>Extiende la masa de hojaldre en una bandeja de horno.</paso>
+            <paso>Coloca las rodajas de manzana en el centro y espolvorea con azúcar y canela.</paso>
+            <paso>Dobla los bordes hacia adentro y barnízalos con huevo.</paso>
+            <paso>Hornea por 30-35 minutos o hasta que esté dorada. Sirve tibia.</paso>
+        </pasos>
+    </receta>
+
+    <receta>
+        <titulo>Chili Vegano</titulo>
+        <imagen>../images/chili_vegano.png</imagen>
+        <tiempo>35 min</tiempo>
+        <dificultad>Fácil</dificultad>
+        <descripcion>Un chili contundente con frijoles y verduras, ideal para un día frío.</descripcion>
+        <ingredientes>
+            <ingrediente>1 taza de frijoles rojos cocidos</ingrediente>
+            <ingrediente>1 taza de maíz</ingrediente>
+            <ingrediente>1 pimiento rojo en cubos</ingrediente>
+            <ingrediente>1 cebolla picada</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>400g de tomate triturado</ingrediente>
+            <ingrediente>1 cucharadita de pimentón ahumado</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Sofríe la cebolla, el ajo y el pimiento en una olla.</paso>
+            <paso>Añade los tomates triturados y el pimentón ahumado, y cocina por 10 minutos.</paso>
+            <paso>Incorpora los frijoles y el maíz, y cocina por 15 minutos más.</paso>
+            <paso>Ajusta la sazón y sirve caliente, acompañado de pan o arroz.</paso>
+        </pasos>
+    </receta>
+    <receta>
+    <titulo>Ensalada Mediterránea de Garbanzos</titulo>
+    <imagen>../images/ensalada_garbanzos.jpg</imagen>
+    <tiempo>15 min</tiempo>
+    <dificultad>Fácil</dificultad>
+    <descripcion>Una ensalada fresca con garbanzos, vegetales y un aliño de limón y aceite de oliva.</descripcion>
+    <ingredientes>
+        <ingrediente>1 taza de garbanzos cocidos</ingrediente>
+        <ingrediente>1 pepino en cubos</ingrediente>
+        <ingrediente>1 tomate en cubos</ingrediente>
+        <ingrediente>1/4 de cebolla morada picada</ingrediente>
+        <ingrediente>1/4 taza de aceitunas negras en rodajas</ingrediente>
+        <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+        <ingrediente>1 cucharada de jugo de limón</ingrediente>
+        <ingrediente>Sal y pimienta al gusto</ingrediente>
+    </ingredientes>
+    <pasos>
+        <paso>Mezcla los garbanzos, el pepino, el tomate, la cebolla y las aceitunas en un bol grande.</paso>
+        <paso>En un recipiente pequeño, combina el aceite de oliva, el jugo de limón, la sal y la pimienta.</paso>
+        <paso>Vierte el aliño sobre la mezcla de garbanzos y mezcla bien.</paso>
+        <paso>Sirve inmediatamente o refrigera hasta el momento de servir.</paso>
+    </pasos>
+</receta>
+</recetas>
